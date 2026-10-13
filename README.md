@@ -7,7 +7,7 @@ A natural language processing project that demonstrates parameter efficient fine
 - Evaluation: Tracked training and validation loss using HuggingFace 'Trainer' and generated prediction outputs ('classification_results.csv') comparing predicted labels against true labels.
 ## Tools and Libraries
 - Python
-- Pytorch
+- PyTorch
 - Hugging Face Libraries: transformers, datasets, peft, trl
 - Data Handling Libraries: numpy, pandas
 ## Requirements
